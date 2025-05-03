@@ -1,7 +1,10 @@
-# TO-DO-APP-PROJECTS
-![image](https://github.com/user-attachments/assets/1f97e381-bf16-473d-8f55-97c779e25ac3)
+# ✅ TO-DO-APP-PROJECTS
 
-# Demo : https://riponalmamun.github.io/TO-DO-APP-PROJECTS/
+✅ This To-Do Application is a web-based task manager built with HTML, CSS, and JavaScript. It allows users to manage their tasks efficiently with features such as task categorization, reminders, and calendar integration. The app has a clean, responsive design, ensuring a smooth experience across devices. Users can sign up, sign in, and interact with a simple interface for managing tasks and setting reminders. The app also includes a chatbot for task assistance. The layout is mobile-friendly, making it easy to access on both desktop and mobile devices.
+
+# 💪 Demo : https://riponalmamun.github.io/TO-DO-APP-PROJECTS/
+
+
 
 ![image](https://github.com/user-attachments/assets/585b8ebc-c095-439f-aea2-117a09862b66)
 ![image](https://github.com/user-attachments/assets/527a3462-5874-4a7e-bd02-ace448c69fe1)
